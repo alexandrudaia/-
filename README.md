@@ -1,1 +1,1 @@
-Математика и Python для анализа данных
+https://github.com/alexandrudaia/-Python-/issues/1
