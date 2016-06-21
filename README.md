@@ -1,7 +1,7 @@
  
 
  
- ![mathematica](https://cloud.githubusercontent.com/assets/7158671/16206621/e8d3a8e0-3731-11e6-97c5-bcf555322e0f.jpg)
+ ![mathematica](https://cloud.githubusercontent.com/assets/7158671/16206621/e8d3a8e0-3731-11e6-97c5-bcf555322e0f.jpg):smile:
  
  
 Машинное обучение и анализ данных
