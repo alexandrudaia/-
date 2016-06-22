@@ -3,3 +3,6 @@
 :dog::dog::dog:
 
 # Обучение на размеченных данных
+
+:stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+##Here will  be fancy  stuff
