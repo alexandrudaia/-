@@ -1,6 +1,44 @@
 ![800x800-01](https://cloud.githubusercontent.com/assets/7158671/16236997/1df7c356-37e3-11e6-8a74-ee0739672899.jpg)
 :snake::snake::snake:
 #Машинное обучение и анализ данных 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![signature_abo2kqbshgfr7zjj7h](https://cloud.githubusercontent.com/assets/7158671/16280595/0f30ac3e-38c9-11e6-8c98-5f90be4706a5.png)
 
  
